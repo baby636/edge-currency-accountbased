@@ -1,0 +1,24 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.22.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - ripple-lib > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - stellar-sdk > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - eslint-plugin-flowtype > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - '@binance-chain/javascript-sdk > @ledgerhq/hw-transport-node-hid > lodash':
+        patched: '2022-03-25T23:28:34.456Z'
+    - ripple-lib > ripple-lib-transactionparser > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - stellar-sdk > stellar-base > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - edge-core-js > json-csv > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - mocha > yargs-unparser > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
+    - stellar-sdk > stellar-base > js-xdr > lodash:
+        patched: '2022-03-25T23:28:34.456Z'
