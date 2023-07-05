@@ -74,7 +74,7 @@
     "uuid": "3.3.3"
   },
   "dependencies": {
-    "@binance-chain/javascript-sdk": "^2.14.4",
+    "@binance-chain/javascript-sdk": "^4.2.1",
     "@fioprotocol/fiosdk": "^1.2.1",
     "base-x": "^1.0.4",
     "biggystring": "^3.0.0",
