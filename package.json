@@ -74,7 +74,7 @@
     "uuid": "3.3.3"
   },
   "dependencies": {
-    "@binance-chain/javascript-sdk": "^2.14.4",
+    "@binance-chain/javascript-sdk": "^4.2.2",
     "@fioprotocol/fiosdk": "^1.2.1",
     "base-x": "^1.0.4",
     "biggystring": "^3.0.0",
@@ -125,7 +125,7 @@
     "rimraf": "^3.0.2",
     "sucrase": "^3.13.0",
     "updot": "^1.1.7",
-    "webpack": "^4.42.1",
+    "webpack": "^5.1.1",
     "webpack-cli": "^3.3.11"
   },
   "importSort": {
