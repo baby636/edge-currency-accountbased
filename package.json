@@ -93,20 +93,20 @@
     "postinstall-postinstall": "^2.1.0",
     "ripple-keypairs": "^0.10.0",
     "ripple-lib": "^1.0.0",
-    "stellar-sdk": "^0.11.0",
+    "stellar-sdk": "^11.0.0",
     "tezos-uri": "^1.0.3",
     "uri-js": "^3.0.2",
     "url-parse": "^1.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-env": "^7.22.0",
     "@babel/preset-flow": "^7.9.0",
     "@babel/runtime": "^7.9.2",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
     "chai": "^4.2.0",
-    "edge-core-js": "^0.17.31",
+    "edge-core-js": "^1.0.0",
     "eslint": "^7.14.0",
     "eslint-config-standard-kit": "0.15.1",
     "eslint-plugin-flowtype": "^5.2.0",
@@ -125,8 +125,8 @@
     "rimraf": "^3.0.2",
     "sucrase": "^3.13.0",
     "updot": "^1.1.7",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   },
   "importSort": {
     ".js, .es": {
