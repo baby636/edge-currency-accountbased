@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "@binance-chain/javascript-sdk": "^2.14.4",
-    "@fioprotocol/fiosdk": "^1.2.1",
+    "@fioprotocol/fiosdk": "^1.10.0",
     "base-x": "^1.0.4",
     "biggystring": "^3.0.0",
     "bip39": "^3.0.2",
@@ -99,7 +99,7 @@
     "url-parse": "^1.4.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-flow": "^7.9.0",
     "@babel/runtime": "^7.9.2",
